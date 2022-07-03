@@ -89,5 +89,5 @@ Neural Networks :  0.24444444444444444
 Naive Bayes :  0.6
 GaussianNB :  1.0
 
-Process finished with exit code 0
+Process finished with exit code 0 
 '''
